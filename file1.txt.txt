@@ -1,0 +1,15 @@
+What is Version Control System? 
+F.e. Git. Helps developers to keep track of different versions of documents etc. You can also move back and forth between differnet versions. So a VCS manages different versions for us. 
+
+What is a Centralized VCS?
+A centralized VCS has a master copy of our projekt in one central repository. All programmers commit their changes to this master copy. 
+
+What is a Distributed VCS?
+A distributed VCS does not rely on a central repository. Therefor different developers are able to clone a copy of central repository and have the full history of the project on their local repository. Changes are stored as change sets, a list of all changes done to many files.
+
+What is GIT?
+Git is a distributed VCS. 
+
+Why is the VCS important?
+Because with the VCS we can manage different versions of our documents. 
+ 
